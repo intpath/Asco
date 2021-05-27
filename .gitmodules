@@ -1,0 +1,4 @@
+[submodule "intpath/invoice_by_journal_users"]
+	path = intpath/invoice_by_journal_users
+	url = git@github.com:intpath/invoice_by_journal_users.git
+	branch = 13

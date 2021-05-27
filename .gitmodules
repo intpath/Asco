@@ -2,3 +2,8 @@
 	path = intpath/invoice_by_journal_users
 	url = git@github.com:intpath/invoice_by_journal_users.git
 	branch = 13
+
+[submodule "intpath/location_limitation"]
+	path = intpath/location_limitation
+	url = git@github.com:intpath/location_limitation.git
+	branch = master

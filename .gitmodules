@@ -32,3 +32,8 @@
 	path = intpath/stock_limitation
 	url = git@github.com:intpath/stock_limitation.git
 	branch = 14
+
+[submodule "ahmadn91/sales_approvals_workflow"]
+	path = ahmadn91/sales_approvals_workflow
+	url = git@github.com:ahmadn91/sales_approvals_workflow.git
+	branch = master

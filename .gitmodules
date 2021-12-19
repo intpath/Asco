@@ -37,3 +37,8 @@
 	path = ahmadn91/sales_approvals_workflow
 	url = git@github.com:ahmadn91/sales_approvals_workflow.git
 	branch = master
+
+[submodule "intpath/print_journal_entries"]
+	path = intpath/print_journal_entries
+	url = git@github.com:intpath/print_journal_entries.git
+	branch = master

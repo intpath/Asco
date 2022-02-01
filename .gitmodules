@@ -42,3 +42,8 @@
 	path = intpath/print_journal_entries
 	url = git@github.com:intpath/print_journal_entries.git
 	branch = master
+
+[submodule "intpath/asco_sales"]
+	path = intpath/asco_sales
+	url = git@github.com:intpath/asco_sales.git
+	branch = master

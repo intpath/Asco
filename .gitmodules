@@ -47,3 +47,8 @@
 	path = intpath/asco_sales
 	url = git@github.com:intpath/asco_sales.git
 	branch = master
+
+[submodule "intpath/asco_crm"]
+	path = intpath/asco_crm
+	url = git@github.com:intpath/asco_crm.git
+	branch = master

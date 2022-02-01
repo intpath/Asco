@@ -52,3 +52,8 @@
 	path = intpath/asco_crm
 	url = git@github.com:intpath/asco_crm.git
 	branch = master
+
+[submodule "intpath/return_approvals"]
+	path = intpath/return_approvals
+	url = git@github.com:intpath/return_approvals.git
+	branch = master

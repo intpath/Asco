@@ -42,3 +42,8 @@
 	path = intpath/print_journal_entries
 	url = git@github.com:intpath/print_journal_entries.git
 	branch = master
+
+[submodule "intpath/salesperson_limit"]
+	path = intpath/salesperson_limit
+	url = git@github.com:intpath/salesperson_limit.git
+	branch = master

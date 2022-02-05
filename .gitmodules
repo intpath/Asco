@@ -57,3 +57,8 @@
 	path = intpath/return_approvals
 	url = git@github.com:intpath/return_approvals.git
 	branch = master
+
+[submodule "intpath/salesperson_limit"]
+	path = intpath/salesperson_limit
+	url = git@github.com:intpath/salesperson_limit.git
+	branch = master

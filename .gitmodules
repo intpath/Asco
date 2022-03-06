@@ -62,3 +62,8 @@
 	path = intpath/salesperson_limit
 	url = git@github.com:intpath/salesperson_limit.git
 	branch = master
+
+[submodule "intpath/product_analytic"]
+	path = intpath/product_analytic
+	url = git@github.com:intpath/product_analytic.git
+	branch = main

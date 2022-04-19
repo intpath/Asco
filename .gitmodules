@@ -67,3 +67,8 @@
 	path = intpath/product_analytic
 	url = git@github.com:intpath/product_analytic.git
 	branch = main
+
+[submodule "intpath/asco_ext"]
+	path = intpath/asco_ext
+	url = git@github.com:intpath/asco_ext.git
+	branch = master

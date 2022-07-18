@@ -77,3 +77,8 @@
 	path = intpath/product_bundle_pack
 	url = git@github.com:intpath/product_bundle_pack.git
 	branch = 14
+
+[submodule "Integrated-Path/asco_maintainence"]
+	path = Integrated-Path/asco_maintainence
+	url = git@github.com:Integrated-Path/asco_maintainence.git
+	branch = master

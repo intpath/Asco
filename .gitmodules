@@ -82,3 +82,8 @@
 	path = Integrated-Path/asco_maintainence
 	url = git@github.com:Integrated-Path/asco_maintainence.git
 	branch = master
+
+[submodule "Integrated-Path/employee_arabic_name"]
+	path = Integrated-Path/employee_arabic_name
+	url = git@github.com:Integrated-Path/employee_arabic_name.git
+	branch = master

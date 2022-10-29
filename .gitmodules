@@ -92,3 +92,8 @@
 	path = Integrated-Path/asco_recruitment
 	url = git@github.com:Integrated-Path/asco_recruitment.git
 	branch = 14
+
+[submodule "Integrated-Path/bi_sale_stock_restrict"]
+	path = Integrated-Path/bi_sale_stock_restrict
+	url = git@github.com:Integrated-Path/bi_sale_stock_restrict.git
+	branch = master

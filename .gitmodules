@@ -97,3 +97,8 @@
 	path = Integrated-Path/bi_sale_stock_restrict
 	url = git@github.com:Integrated-Path/bi_sale_stock_restrict.git
 	branch = master
+
+[submodule "Integrated-Path/lab_lease"]
+	path = Integrated-Path/lab_lease
+	url = git@github.com:Integrated-Path/lab_lease.git
+	branch = 15/asco

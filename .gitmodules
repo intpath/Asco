@@ -107,3 +107,8 @@
 	path = Integrated-Path/asco_inventory
 	url = git@github.com:Integrated-Path/asco_inventory.git
 	branch = master
+
+[submodule "intpath/report_stock_inventory"]
+	path = intpath/report_stock_inventory
+	url = git@github.com:intpath/report_stock_inventory.git
+	branch = master

@@ -102,3 +102,8 @@
 	path = Integrated-Path/lab_lease
 	url = git@github.com:Integrated-Path/lab_lease.git
 	branch = 15/asco
+
+[submodule "Integrated-Path/asco_inventory"]
+	path = Integrated-Path/asco_inventory
+	url = git@github.com:Integrated-Path/asco_inventory.git
+	branch = master

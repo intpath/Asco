@@ -112,3 +112,8 @@
 	path = intpath/report_stock_inventory
 	url = git@github.com:intpath/report_stock_inventory.git
 	branch = master
+
+[submodule "Integrated-Path/sh_leave_attachment"]
+	path = Integrated-Path/sh_leave_attachment
+	url = git@github.com:Integrated-Path/sh_leave_attachment.git
+	branch = master

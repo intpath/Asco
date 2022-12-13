@@ -3,11 +3,6 @@
 	url = git@github.com:intpath/invoice_by_journal_users.git
 	branch = 13
 
-[submodule "intpath/location_limitation"]
-	path = intpath/location_limitation
-	url = git@github.com:intpath/location_limitation.git
-	branch = master
-
 [submodule "intpath/ip_user_restrict_product_access"]
 	path = intpath/ip_user_restrict_product_access
 	url = git@github.com:intpath/ip_user_restrict_product_access.git

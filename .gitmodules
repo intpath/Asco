@@ -112,3 +112,8 @@
 	path = Integrated-Path/sh_leave_attachment
 	url = git@github.com:Integrated-Path/sh_leave_attachment.git
 	branch = master
+
+[submodule "Integrated-Path/lab_lease"]
+	path = Integrated-Path/lab_lease
+	url = git@github.com:Integrated-Path/lab_lease.git
+	branch = 15.0

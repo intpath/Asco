@@ -117,3 +117,8 @@
 	path = Integrated-Path/lab_lease
 	url = git@github.com:Integrated-Path/lab_lease.git
 	branch = 15.0
+
+[submodule "Integrated-Path/sale_discount_total"]
+	path = Integrated-Path/sale_discount_total
+	url = git@github.com:Integrated-Path/sale_discount_total.git
+	branch = 14.0

@@ -122,3 +122,8 @@
 	path = Integrated-Path/sale_discount_total
 	url = git@github.com:Integrated-Path/sale_discount_total.git
 	branch = 14.0
+
+[submodule "Integrated-Path/sales_approvals_workflow-master"]
+	path = Integrated-Path/sales_approvals_workflow-master
+	url = git@github.com:Integrated-Path/sales_approvals_workflow-master.git
+	branch = master

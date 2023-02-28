@@ -127,3 +127,8 @@
 	path = Integrated-Path/sales_approvals_workflow-master
 	url = git@github.com:Integrated-Path/sales_approvals_workflow-master.git
 	branch = master
+
+[submodule "Integrated-Path/approval_module"]
+	path = Integrated-Path/approval_module
+	url = git@github.com:Integrated-Path/approval_module.git
+	branch = master

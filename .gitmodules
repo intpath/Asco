@@ -137,3 +137,8 @@
 	path = Integrated-Path/od_asco_extend
 	url = git@github.com:Integrated-Path/od_asco_extend.git
 	branch = master
+
+[submodule "Integrated-Path/custom_report_layout"]
+	path = Integrated-Path/custom_report_layout
+	url = git@github.com:Integrated-Path/custom_report_layout.git
+	branch = master

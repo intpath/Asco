@@ -132,3 +132,8 @@
 	path = Integrated-Path/approval_module
 	url = git@github.com:Integrated-Path/approval_module.git
 	branch = master
+
+[submodule "Integrated-Path/od_asco_extend"]
+	path = Integrated-Path/od_asco_extend
+	url = git@github.com:Integrated-Path/od_asco_extend.git
+	branch = master

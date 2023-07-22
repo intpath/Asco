@@ -142,3 +142,8 @@
 	path = Integrated-Path/custom_report_layout
 	url = git@github.com:Integrated-Path/custom_report_layout.git
 	branch = master
+
+[submodule "Integrated-Path/hr_payroll_account_multi_currency_journal"]
+	path = Integrated-Path/hr_payroll_account_multi_currency_journal
+	url = git@github.com:Integrated-Path/hr_payroll_account_multi_currency_journal.git
+	branch = 14

@@ -147,3 +147,8 @@
 	path = Integrated-Path/hr_payroll_account_multi_currency_journal
 	url = git@github.com:Integrated-Path/hr_payroll_account_multi_currency_journal.git
 	branch = 14
+
+[submodule "Integrated-Path/partner_category"]
+	path = Integrated-Path/partner_category
+	url = git@github.com:Integrated-Path/partner_category.git
+	branch = master

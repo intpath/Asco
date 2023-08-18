@@ -152,3 +152,8 @@
 	path = Integrated-Path/partner_category
 	url = git@github.com:Integrated-Path/partner_category.git
 	branch = master
+
+[submodule "Integrated-Path/asco_access_rights"]
+	path = Integrated-Path/asco_access_rights
+	url = git@github.com:Integrated-Path/asco_access_rights.git
+	branch = master

@@ -157,3 +157,8 @@
 	path = Integrated-Path/asco_access_rights
 	url = git@github.com:Integrated-Path/asco_access_rights.git
 	branch = master
+
+[submodule "Integrated-Path/accounting_pdf_reports"]
+	path = Integrated-Path/accounting_pdf_reports
+	url = git@github.com:Integrated-Path/accounting_pdf_reports.git
+	branch = master

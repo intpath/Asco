@@ -162,3 +162,8 @@
 	path = Integrated-Path/accounting_pdf_reports
 	url = git@github.com:Integrated-Path/accounting_pdf_reports.git
 	branch = master
+
+[submodule "Integrated-Path/hr_organizational_chart"]
+	path = Integrated-Path/hr_organizational_chart
+	url = git@github.com:Integrated-Path/hr_organizational_chart.git
+	branch = master

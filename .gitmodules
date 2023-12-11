@@ -157,3 +157,8 @@
 	path = Integrated-Path/asco_access_rights
 	url = git@github.com:Integrated-Path/asco_access_rights.git
 	branch = master
+
+[submodule "Integrated-Path/asco_repair"]
+	path = Integrated-Path/asco_repair
+	url = git@github.com:Integrated-Path/asco_repair.git
+	branch = main

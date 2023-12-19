@@ -167,3 +167,8 @@
 	path = Integrated-Path/hr_organizational_chart
 	url = git@github.com:Integrated-Path/hr_organizational_chart.git
 	branch = master
+
+[submodule "Integrated-Path/bi_website_add_product"]
+	path = Integrated-Path/bi_website_add_product
+	url = git@github.com:Integrated-Path/bi_website_add_product.git
+	branch = master

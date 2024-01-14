@@ -172,3 +172,8 @@
 	path = Integrated-Path/bi_website_add_product
 	url = git@github.com:Integrated-Path/bi_website_add_product.git
 	branch = master
+
+[submodule "Integrated-Path/website_whatsapp_icon"]
+	path = Integrated-Path/website_whatsapp_icon
+	url = git@github.com:Integrated-Path/website_whatsapp_icon.git
+	branch = master

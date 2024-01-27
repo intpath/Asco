@@ -177,3 +177,8 @@
 	path = Integrated-Path/website_whatsapp_icon
 	url = git@github.com:Integrated-Path/website_whatsapp_icon.git
 	branch = master
+
+[submodule "Integrated-Path/sr_discount_limit_for_user"]
+	path = Integrated-Path/sr_discount_limit_for_user
+	url = git@github.com:Integrated-Path/sr_discount_limit_for_user.git
+	branch = 14.0

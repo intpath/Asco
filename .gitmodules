@@ -182,3 +182,8 @@
 	path = Integrated-Path/sr_discount_limit_for_user
 	url = git@github.com:Integrated-Path/sr_discount_limit_for_user.git
 	branch = 14.0
+
+[submodule "Integrated-Path/projects_task_checklists"]
+	path = Integrated-Path/projects_task_checklists
+	url = git@github.com:Integrated-Path/projects_task_checklists.git
+	branch = master

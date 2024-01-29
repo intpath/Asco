@@ -187,3 +187,8 @@
 	path = Integrated-Path/projects_task_checklists
 	url = git@github.com:Integrated-Path/projects_task_checklists.git
 	branch = master
+
+[submodule "Integrated-Path/asco_subscription_customization"]
+	path = Integrated-Path/asco_subscription_customization
+	url = git@github.com:Integrated-Path/asco_subscription_customization.git
+	branch = main

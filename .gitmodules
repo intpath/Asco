@@ -192,3 +192,8 @@
 	path = Integrated-Path/asco_subscription_customization
 	url = git@github.com:Integrated-Path/asco_subscription_customization.git
 	branch = main
+
+[submodule "Integrated-Path/dhx_gantt"]
+	path = Integrated-Path/dhx_gantt
+	url = git@github.com:Integrated-Path/dhx_gantt.git
+	branch = master

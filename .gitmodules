@@ -157,3 +157,8 @@
 	path = Integrated-Path/asco_access_rights
 	url = git@github.com:Integrated-Path/asco_access_rights.git
 	branch = master
+
+[submodule "Integrated-Path/asco_subscription_customization"]
+	path = Integrated-Path/asco_subscription_customization
+	url = git@github.com:Integrated-Path/asco_subscription_customization.git
+	branch = main

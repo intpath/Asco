@@ -197,3 +197,8 @@
 	path = Integrated-Path/dhx_gantt
 	url = git@github.com:Integrated-Path/dhx_gantt.git
 	branch = master
+
+[submodule "Integrated-Path/overtime_approval"]
+	path = Integrated-Path/overtime_approval
+	url = git@github.com:Integrated-Path/overtime_approval.git
+	branch = 15/halasat

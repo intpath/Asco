@@ -162,3 +162,8 @@
 	path = Integrated-Path/asco_subscription_customization
 	url = git@github.com:Integrated-Path/asco_subscription_customization.git
 	branch = main
+
+[submodule "Integrated-Path/od_asco_extend_document"]
+	path = Integrated-Path/od_asco_extend_document
+	url = git@github.com:Integrated-Path/od_asco_extend_document.git
+	branch = master
